@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/wcharczuk/go-chart/v2"
-	"github.com/wcharczuk/go-chart/v2/drawing"
+	"github.com/ClarkKenty/go-chart/v2"
+	"github.com/ClarkKenty/go-chart/v2/drawing"
 )
 
 func main() {
