@@ -1,4 +1,4 @@
-module github.com/ClarkKenty/go-chart
+module github.com/ClarkKenty/go-chart/v2
 
 go 1.15
 
